@@ -3,7 +3,7 @@
 ## 
 
 
-![App Screenshot](https://www.logmask.com/images/mask-detection-sample.jpg)
+![App Screenshot](https://github.com/amit862/faceMaskDetection/blob/main/face%20mask.png)
 
 
 ## Refrences
